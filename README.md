@@ -1,24 +1,39 @@
-# Hi there my name is Bryan Colin
+# Hi, I'm Bryan Colin
 
-Cybersecurity student focused on security analysis, vulnerability assessment, cloud security, and ethical hacking.
+Aspiring cybersecurity professional focused on security analysis, vulnerability assessment, cloud security, and ethical hacking.
+
+I am currently building practical cybersecurity skills through hands-on labs, technical projects, and security documentation. My goal is to develop a strong foundation for SOC Analyst, Cybersecurity Analyst, and Junior Security Engineer roles.
 
 ## Current Focus
+
 - CompTIA CySA+ preparation
-- SOC analysis and SIEM labs
-- Vulnerability assessment reporting
+- SOC analysis and SIEM fundamentals
+- Vulnerability assessment and reporting
 - Cloud security fundamentals
+- Network security and traffic analysis
+- Ethical hacking and lab-based security testing
 
 ## Technical Skills
-- Security: Vulnerability assessment, incident response, SIEM, network security
-- Tools: Wireshark, Nmap, Nessus/OpenVAS, Wazuh/Splunk, Burp Suite
-- Systems: Linux, Windows, Active Directory basics
-- Programming: Python, Bash, PowerShell
-- Cloud: Azure/AWS fundamentals
+
+**Security:** Vulnerability Assessment, Incident Response Fundamentals, SIEM Fundamentals, Network Security, Security Operations
+
+**Tools:** Wireshark, Nmap, Nessus, Wazuh, Burp Suite, OWASP ZAP, Kali Linux
+
+**Systems:** Linux, Windows, Active Directory Basics
+
+**Programming and Scripting:** Python, Bash, PowerShell
+
+**Cloud:** Azure Fundamentals
 
 ## Planned Cybersecurity Projects
+
 - Home SOC Lab
 - Vulnerability Assessment Lab
 - Wireshark Network Analysis
 - OWASP Top 10 Lab
 - Cloud Security Lab
 - Python Security Scripts
+
+## GitHub Project Goals
+
+This GitHub will be used to document my cybersecurity learning journey, including lab write-ups, security reports, scripts, screenshots, and practical project documentation.
