@@ -6,11 +6,10 @@ I am currently building practical cybersecurity skills through hands-on labs, te
 
 ## Current Focus
 
-- CompTIA CySA+ preparation
 - SOC analysis and SIEM fundamentals
 - Vulnerability assessment and reporting
 - Cloud security fundamentals
-- Network security and traffic analysis
+- Network security and traffic analysister
 - Ethical hacking and lab-based security testing
 
 ## Technical Skills
