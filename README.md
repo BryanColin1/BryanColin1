@@ -31,6 +31,7 @@ I am currently building practical cybersecurity skills through hands-on labs, te
 | [Home SOC Lab](https://github.com/BryanColin1/home-soc-lab) | SIEM monitoring and SOC investigation | Wazuh, alert triage, Linux endpoint monitoring, file integrity monitoring |
 | [Vulnerability Assessment Lab](https://github.com/BryanColin1/vulnerability-assessment-lab) | Vulnerability scanning and remediation | Nmap, service enumeration, risk analysis, remediation planning |
 | [Wireshark Network Analysis](https://github.com/BryanColin1/wireshark-network-analysis) | Packet and protocol analysis | ICMP, DNS, TCP, HTTP, suspicious traffic analysis |
+| [Linux Hardening Lab](https://github.com/BryanColin1/linux-hardening-lab) | Linux system security and baseline hardening | User and permission management, SSH hardening, firewall configuration, system updates, audit logging |
 
 ## Planned Cybersecurity Projects
 
